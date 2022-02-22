@@ -1,47 +1,19 @@
-Miwok App
-===================================
+Main Screen
 
-This app displays lists of vocabulary words for the user to learn the Miwok language.
-Used in a Udacity course in the Beginning Android Nanodegree.
+![2018-10-04 at 02-57-58](https://user-images.githubusercontent.com/34006266/46503133-d1b88c80-c7de-11e8-931b-8abce3012103.png)
 
-Pre-requisites
---------------
+Family
 
-- Android SDK v23
-- Android Build Tools v23.0.2
-- Android Support Repository v23.3.0
+![2018-10-04 at 02-58-46](https://user-images.githubusercontent.com/34006266/46502973-58209e80-c7de-11e8-90b8-fff8d304da7c.png)
 
-Getting Started
----------------
+Sentence
 
-This sample uses the Gradle build system. To build this project, use the
-"gradlew build" command or use "Import Project" in Android Studio.
+![2018-10-04 at 02-58-35](https://user-images.githubusercontent.com/34006266/46503088-b0f03700-c7de-11e8-8c00-7d31e53d8865.png)
 
-Support
--------
+Color
 
-- Google+ Community: https://plus.google.com/communities/105153134372062985968
-- Stack Overflow: http://stackoverflow.com/questions/tagged/android
+![2018-10-04 at 02-58-22](https://user-images.githubusercontent.com/34006266/46503102-bb123580-c7de-11e8-84ea-421082ad2c88.png)
 
-Patches are encouraged, and may be submitted by forking this project and
-submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
+Number
 
-License
--------
-
-Copyright 2016 The Android Open Source Project, Inc.
-
-Licensed to the Apache Software Foundation (ASF) under one or more contributor
-license agreements.  See the NOTICE file distributed with this work for
-additional information regarding copyright ownership.  The ASF licenses this
-file to you under the Apache License, Version 2.0 (the "License"); you may not
-use this file except in compliance with the License.  You may obtain a copy of
-the License at
-
-http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
-License for the specific language governing permissions and limitations under
-the License.
+![2018-10-04 at 02-58-12](https://user-images.githubusercontent.com/34006266/46503118-c36a7080-c7de-11e8-8946-4be402e88756.png)
